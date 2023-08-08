@@ -1,4 +1,4 @@
-package spring-Core;
+package springcore;
 
 /**
  * Hello world!
